@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+motor
+pymongo
+httpx
+python-multipart
+pydantic
+python-dotenv
+google-generativeai
